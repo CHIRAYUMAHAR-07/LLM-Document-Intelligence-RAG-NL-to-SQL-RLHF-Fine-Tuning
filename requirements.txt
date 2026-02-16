@@ -1,0 +1,16 @@
+
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+lightgbm
+optuna
+shap
+mlflow
+sentence-transformers
+faiss-cpu
+rank-bm25
+streamlit
+locust
+boto3
